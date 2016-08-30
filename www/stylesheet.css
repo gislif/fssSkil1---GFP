@@ -1,0 +1,82 @@
+body {
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS3QmxiEm5RGVpONNZv0FBXf-w4yhgPKTNJCLUo0C6aa9gznLH_A");
+}
+
+.hnappur {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+.Swag {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+.Index {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 25px;
+	width: 100px;
+	margin: auto;
+	text-align: center;
+}
+
+.black {
+	border: 2px solid black;
+}
+
+.Stuff{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 625px;
+	width: 420px;
+	margin: auto;
+	text-align: center
+}
+
+table, tr, td{
+	border: 3px solid Black;
+
+}
+
+tbody, th {
+	border: 15px solid Black;
+	color: Red;
+}
+
+.Colur {
+	border: 15px solid 00FFFF;
+	background-color: 00FFFF;
+}
+
+.classic {
+	background-image: url("http://img01.deviantart.net/d4ff/i/2014/361/6/8/epic_swag_cat_by_purpleglitchycat-d8bdnx6.jpg");
+	color: Red;
+}
+
+.cat {
+	background-image: url("http://cdni.wired.co.uk/1240x826/s_v/space_11.jpg")
+}
+
+img {
+	height: 400px;
+	width: 420px;
+	
+}
+
+a {
+	color: Red;
+	text-decoration: none;
+}
