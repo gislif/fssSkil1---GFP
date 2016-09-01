@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
 :wq
 
 # Search String History (newest to oldest):
@@ -26,6 +27,19 @@
 '2  11  43  ~/.git/config
 
 # Jumplist (newest first):
+-'  1  12  ~/.gitignore
+-'  8  0  ~/README.md
+-'  1  0  ~/README.md
+-'  11  43  ~/.git/config
+-'  1  0  ~/.git/config
+-'  11  43  ~/.git/config
+-'  1  0  ~/.git/config
+-'  8  0  ~/README.md
+-'  1  0  ~/README.md
+-'  11  43  ~/.git/config
+-'  1  0  ~/.git/config
+-'  11  43  ~/.git/config
+-'  1  0  ~/.git/config
 -'  1  12  ~/.gitignore
 -'  8  0  ~/README.md
 -'  1  0  ~/README.md
